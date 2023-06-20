@@ -1,7 +1,0 @@
-n = int(input())
-bin_n = bin(n)
-print(bin_n[2:])
-oct_n = oct(n)
-print(oct_n[2:])
-hex_n = hex(n)
-print(hex_n[2:].upper())
